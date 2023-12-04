@@ -1,0 +1,20 @@
+ header [ 
+        backgroud;  #bbbbbb;
+        padding: 20px 0;
+ ]
+
+ .caixa [
+        position: relative;
+        width:940px;
+        margin: 0 auto;
+ ] 
+ 
+  nav {
+        position: relative;
+        width: 940px;
+        right: 0;
+    [
+
+    nav li [
+         display: inline;
+         margin: 
